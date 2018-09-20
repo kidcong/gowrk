@@ -1,0 +1,16 @@
+[
+    {
+        "URL": "http://www.chinamaincloud.com/",
+        "Method": "GET",
+        "Header": {
+          "X-debug" : "1"
+        }
+      },
+      {
+        "URL": "http://www.gzjponline.com/Content/jpimg/logo.png",
+        "Method": "GET",
+        "Header": {
+          "TT" : "A"
+        }
+      }
+]
